@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279276122565",
+    "project_id": "seo1-af8ae",
+    "storage_bucket": "seo1-af8ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279276122565:android:d5516677d638f670cfdbac",
+        "android_client_info": {
+          "package_name": "com.victor.seo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279276122565-fd2te37v2jij8c0hoo5r6jaggsanva76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkfI6LT91YlZbaI1BFyC899N3oJm13K80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279276122565-fd2te37v2jij8c0hoo5r6jaggsanva76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
